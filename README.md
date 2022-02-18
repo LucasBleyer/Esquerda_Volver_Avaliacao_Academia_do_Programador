@@ -1,4 +1,4 @@
-# Esquerda_Volver_Avaliacao
+# Esquerda Volver Avaliacao
 
 Esquerda, Volver!
 
@@ -31,4 +31,6 @@ Para cada caso de teste da entrada seu programa deve produzir uma única linha d
 direção para a qual o recruta deve ter sua face voltada após executar a série de comandos, considerando
 que no início o recruta tem a face voltada para o norte. A linha deve conter uma letra entre 'N', 'L', 'S' e
 'O', representando respectivamente as direções norte, leste, sul e oeste.
+
+![image](https://user-images.githubusercontent.com/91075515/154734009-b3e07aac-fa48-47d5-b887-fa3400d17135.png)
 
